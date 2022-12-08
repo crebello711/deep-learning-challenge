@@ -32,3 +32,5 @@ From Alphabet Soup’s business team, you have received a CSV containing more th
 ### Step 2: Compile, Train, and Evaluate the Model
 ### Step 3: Optimize the Model
 ### Step 4: Write a Report on the Neural Network Model
+
+## Solution : [Starter_Code.ipynb]
