@@ -28,9 +28,9 @@ From Alphabet Soup’s business team, you have received a CSV containing more th
 `IS_SUCCESSFUL—Was the money used effectively`
 
 
-### Step 1: Preprocess the Data
-### Step 2: Compile, Train, and Evaluate the Model
-### Step 3: Optimize the Model
-### Step 4: Write a Report on the Neural Network Model
+#### Step 1: Preprocess the Data
+#### Step 2: Compile, Train, and Evaluate the Model
+#### Step 3: Optimize the Model
+#### Step 4: Write a Report on the Neural Network Model
 
 ## Please refer to [Starter Code](Starter_Code.ipynb) for review
